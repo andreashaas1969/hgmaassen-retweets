@@ -22,7 +22,7 @@ See [2_create_vis.ipynb](2_create_vis.ipynb) for more details.
 
 Some reference if you want to dig deeper in the (NLP) topic: ["Improving Distributional Similarity with Lessons Learned from Word Embeddings"](https://aclweb.org/anthology/papers/Q/Q15/Q15-1016/) by Omer Levy, Yoav Goldberg, Ido Dagan, TACL 2015.
 
-I am not sure wheter I should write/experiment more on the method. If you have an opinion on it, write me an [email](mailto:hi@jfilter.de).
+This project is a branch from experimental code initially released by [Johannes Filter](mailto:hi@jfilter.de). His project was dead since day one, since he is not prepared to answer technical questions and shows no signs of interest in growing a user/developer community. You may contact me via [Telegram](https://twitter.com/ah114088) if you think this gap should be closed.
 
 ## License
 
